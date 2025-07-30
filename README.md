@@ -2,6 +2,10 @@
 
 This is a Quiz Web App,Currently, it only contains a **Dashboard page** component.
 
+## Clone the Repository to your local directory
+```bash
+git clone (repo-link)
+```
 ## How to Run the App
 
 1. First, install the dependencies:
